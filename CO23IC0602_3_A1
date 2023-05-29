@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Elfy's Car Game Menu</title>
+</head>
+<body>
+	<h1>Car Game Menu</h1>
+  <ol>
+  <li>Start Game</li>
+  <li>Instructions</li>
+  <li>About</li>
+  <li>
+    Exit
+    <ol>
+      <li>Confirm Exit</li>
+      <li>Cancel Exit</li>
+    </ol>
+  </li>
+</ol>
+</body>
+</html>
