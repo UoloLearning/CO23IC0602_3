@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Favorite Animals</title>
+</head>
+<body>
+<h1>My Favorite Animals</h1>
+  <ol>
+    <li>Mammals
+      <ol>
+        <li>Dogs</li>
+        <li>Cats</li>
+        <li>Horses</li>
+      </ol>
+    </li>
+    <li>Birds
+      <ol>
+        <li>Parrots</li>
+        <li>Eagles</li>
+        <li>Penguins</li>
+      </ol>
+    </li>
+  </ol>
+</body>
+</html>
